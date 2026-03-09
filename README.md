@@ -85,5 +85,6 @@ Excel Formulas
 Target hit % and deviation calculations
 
 
-**About Me**
+**About Me**:
+
 I am a Data Analyst skilled in Microsoft Excel, specializing in building interactive sales performance dashboards. I turn raw sales data into clear visual insights tracking revenue, target achievement, and regional trends to help organizations evaluate team performance and drive smarter business decisions.
