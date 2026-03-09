@@ -2,40 +2,42 @@
 **Project Description:**
 
 This project is an interactive Excel-based Sales Performance Dashboard that analyzes and compares sales executives' performance across four regional zones — Central, North, South, and West. It tracks total sales revenue, target achievement rates, and deviation from targets giving managers a powerful tool to evaluate team performance and make data-driven decisions.
-ChartType 
+
+**ChartTypes**
+
 **Dashboard1**
 
-**Type** Pivot Table
+**Type** :Pivot Table
 
 **Description** Central region — Top performers by Total Sales. Ayesha Noor leads with 1,071,396
 
 **Dashboard 2**
 
-**Type** Pivot Table
+**Type** :Pivot Table
 
  **Description** North region — Sara Ahmed tops with 438,219 in total sales 
  
 **Dashboard 3**
 
-**Type** Line Chart
- 
+**Type** :Line Chart
+
  **Description** Away from Target % per executive — Maria Khan & Sara Ahmed highest at 400%
 
  **Dashboard 4**
 
- **Type** Pivot Table
+ **Type** :Pivot Table
 
  **Description** Target Hit % — Fatima Zahra leads at 400%, multiple execs at 200–300%Bar ChartHorizontal BarVisual comparison of Central region sales — Ayesha Noor is top performerPie ChartPieOverall sales share distribution across all sales executives.
   
 **Bar Chart**
 
-**Type** Horizontal Bar
+**Type** :Horizontal Bar
 
  **Description** Visual comparison of Central region sales — Ayesha Noor is top performer.
 
 **Pie Chart**
 
-**Type** Pie
+**Type** :Pie
 
 **Description** Overall sales share distribution across all sales executives
 
