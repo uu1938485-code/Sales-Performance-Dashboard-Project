@@ -14,30 +14,30 @@ ChartType
 **Type** Pivot Table
 
  **Description** North region — Sara Ahmed tops with 438,219 in total sales 
-
+ 
 **Dashboard 3**
 
- **Type** Line Chart
+**Type** Line Chart
  
-  **Description** Away from Target % per executive — Maria Khan & Sara Ahmed highest at 400%
+ **Description** Away from Target % per executive — Maria Khan & Sara Ahmed highest at 400%
 
-**Dashboard 4**
+ **Dashboard 4**
 
-** Type** Pivot Table
+ **Type** Pivot Table
 
-  **Description** Target Hit % — Fatima Zahra leads at 400%, multiple execs at 200–300%Bar ChartHorizontal BarVisual comparison of Central region sales — Ayesha Noor is top performerPie ChartPieOverall sales share distribution across all sales executives.
-
+ **Description** Target Hit % — Fatima Zahra leads at 400%, multiple execs at 200–300%Bar ChartHorizontal BarVisual comparison of Central region sales — Ayesha Noor is top performerPie ChartPieOverall sales share distribution across all sales executives.
+  
 **Bar Chart**
 
-Horizontal Bar
+**Type** Horizontal Bar
 
-  **Description** Visual comparison of Central region sales — Ayesha Noor is top performer.
+ **Description** Visual comparison of Central region sales — Ayesha Noor is top performer.
 
 **Pie Chart**
 
-Pie
+**Type** Pie
 
-** Description** Overall sales share distribution across all sales executives
+**Description** Overall sales share distribution across all sales executives
 
 ![image alt]( https://github.com/uu1938485-code/Sales-Performance-Dashboard-Project/blob/61b5795e457fba3a73950740c533f8ab769ece67/dd.GIF)
 
